@@ -1,9 +1,6 @@
 # 🤖 WhatsApp PDF Bot
 
-<div align="center">
-
-!Pdf wa bot Bot Banner](./images/whatsapp.jpg)
-</div>
+![Banner](images/whatsapp.jpg)
 
 A simple WhatsApp bot that sends PDF files automatically when users request them 📄✨
 
